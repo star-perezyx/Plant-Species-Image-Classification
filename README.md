@@ -159,7 +159,7 @@ D. Model Evaluation<br>
 ● Embedded screenshots of:<br>
 ○ Confusion matrix<br>
 ○ Accuracy per class<br>
-○ Overall model accuracy
+○ Overall model accuracy<br>
 <img width="409" height="950" alt="Capture 1" src="https://github.com/user-attachments/assets/4b3792f7-700c-4f26-9aff-243054a5c769" />
 
 E. Model Testing
