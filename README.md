@@ -10,8 +10,7 @@ B. Plant Species Section
    
 ![A close-up shot of a vibrant yellow flower, with green leaves softly blurred in the background  Arnica mountain, close-up  One beautiful ](https://github.com/user-attachments/assets/229e0d9b-3bb1-4c76-94a5-dae42543647a)
 
-Scientific name: Arnica montana
-
+Scientific name: Arnica montana<br>
 Description: Arnica is a perennial flowering plant with bright yellow, daisy-like flowers. It is commonly found in mountainous regions and is widely used in traditional medicine, especially for bruises, muscle pain, and inflammation.
 
 2. Artichoke Flowe
