@@ -10,14 +10,14 @@ B. Plant Species Section
    
 ![A close-up shot of a vibrant yellow flower, with green leaves softly blurred in the background  Arnica mountain, close-up  One beautiful ](https://github.com/user-attachments/assets/229e0d9b-3bb1-4c76-94a5-dae42543647a)
 
-Scientific name: Arnica montana<br>
+Scientific name: Arnica montana<br><br>
 Description: Arnica is a perennial flowering plant with bright yellow, daisy-like flowers. It is commonly found in mountainous regions and is widely used in traditional medicine, especially for bruises, muscle pain, and inflammation.
 
 2. Artichoke Flowe
    
 ![A purple cardoon (cynara cardunculus) in bloom in a garden A purple cardoon in bloom in a garden plot  Scientific name_ cynara cardu](https://github.com/user-attachments/assets/ff43b85d-5011-4435-a710-84a20c30e27d)
 
-Scientific name: Cynara scolymus
+Scientific name: Cynara scolymus<br><br>
 Description: The artichoke plant produces large purple flower buds. It has thick, spiny leaves and is known for its medicinal properties related to liver health and digestion.
 
 3. Blue Lotus
